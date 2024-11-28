@@ -15,7 +15,7 @@ A simple and fun dinosaur jumping game created using JavaScript, HTML, and CSS. 
 
 ## 🖼️ Preview
 
-![Game Preview](link-to-screenshot-or-gif)
+![Game Preview](images/preview.png)
 
 ---
 
@@ -32,5 +32,5 @@ A simple and fun dinosaur jumping game created using JavaScript, HTML, and CSS. 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/dino-jumping-game.git
-   cd dino-jumping-game
+   git clone 
+   cd 
