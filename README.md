@@ -32,5 +32,5 @@ A simple and fun dinosaur jumping game created using JavaScript, HTML, and CSS. 
 1. Clone the repository:
 
    ```bash
-   git clone 
-   cd 
+   git clone https://github.com/DamianAntony/jsgame.git
+   cd jsgame
